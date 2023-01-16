@@ -1,0 +1,23 @@
+section{
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  article{
+    flex:5;
+  }
+  
+  article:nth-of-type(2){
+    flex:1;
+  }
+  
+  .flexcontainer{
+    display: flex;
+    background-color: rgb(87, 219, 221);
+  }
+  
+  .flexgrowcontainer{
+    display: flex;
+    align-items: stretch;
+    background-color: rgb(56, 248, 133);
+  }
