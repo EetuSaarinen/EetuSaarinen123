@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(255, 228, 196);
+}
+header{
+    background-color: rgb(178, 249, 225);
+}
+footer{
+    background-color: rgb(255, 255, 255);
+    height: 70px;
+    text-align: center;
+}
+.black{
+    background-color: rgb(0, 0, 0);
+}
+.column{
+    background-color: aqua;
+}
+.column2{
+    background-color: rgb(17, 212, 39);
+}
+.column3{
+    background-color: rgb(140, 121, 216);
+}
